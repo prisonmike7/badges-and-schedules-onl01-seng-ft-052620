@@ -14,4 +14,3 @@ def assign_rooms(array_names)
   end
   return new_batch_array
 end
-
