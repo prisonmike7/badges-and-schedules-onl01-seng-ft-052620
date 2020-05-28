@@ -1,5 +1,5 @@
 
-def batch_badge_creator(array_names)
+def badge_maker(array_names)
   new_batch_array = []
   array_names.each do |name|
     new_batch_array << "Hello, my name is #{name}."
